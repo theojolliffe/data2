@@ -771,52 +771,10 @@
 "r": 4,
 "colour": "#0DBC37"
 },
-"W06000009": {
-"n": "Pembrokeshire",
-"q": 2,
-"r": 2,
-"colour": "#0DBC37"
-},
-"W06000010": {
-"n": "Carmarthenshire",
-"q": 3,
-"r": 2,
-"colour": "#0DBC37"
-},
-"W06000011": {
-"n": "Swansea",
-"q": 3,
-"r": 1,
-"colour": "#0DBC37"
-},
-"W06000012": {
-"n": "Neath Port Talbot",
-"q": 4,
-"r": 2,
-"colour": "#0DBC37"
-},
-"W06000013": {
-"n": "Bridgend",
-"q": 4,
-"r": 1,
-"colour": "#0DBC37"
-},
-"W06000014": {
-"n": "Vale of Glamorgan",
-"q": 5,
-"r": 1,
-"colour": "#0DBC37"
-},
 "W06000015": {
 "n": "Cardiff",
 "q": 6,
 "r": 1,
-"colour": "#0DBC37"
-},
-"W06000016": {
-"n": "Rhondda Cynon Taf",
-"q": 5,
-"r": 2,
 "colour": "#0DBC37"
 },
 "W06000018": {
