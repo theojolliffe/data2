@@ -1,4 +1,12 @@
-{"type":"FeatureCollection", "features": [
+{
+  "type":"FeatureCollection", 
+   "crs": {
+      "type": "name",
+      "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+"features": [
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.5913,51.7546],[-3.5634,51.6455],[-3.4975,51.5126],[-3.3358,51.5085],[-3.2375,51.5526],[-3.3138,51.6447],[-3.4442,51.8165],[-3.5913,51.7546]]]},"properties":{"name":"Rhondda Cynon Taf","label":"W92000004W06000016","geo_labelw":"Rhondda Cynon Taf","geo_label":"Rhondda Cynon Taf","geo_code":"W06000016","rmapshaperid":0},"id":0},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-6.4869,58.4084],[-7.0482,58.2329],[-7.0763,57.9659],[-6.3867,58.0009],[-6.4869,58.4084]]]},"properties":{"name":"Eilean Siar","label":"S92000003S12000013","geo_label":"Eilean Siar","geo_code":"S12000013","rmapshaperid":1},"id":1},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-3.5634,51.6455],[-3.7696,51.5354],[-3.651,51.4717],[-3.4975,51.5126],[-3.5634,51.6455]]]},"properties":{"name":"Bridgend","label":"W92000004W06000013","geo_labelw":"Pen-y-bont ar Ogwr","geo_label":"Bridgend","geo_code":"W06000013","rmapshaperid":2},"id":2},
